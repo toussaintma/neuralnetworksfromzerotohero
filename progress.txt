@@ -1,0 +1,19 @@
+## Fast.ai Practical Deep Learning for Coders
+
+### Progress
+* lesson 1 done
+* lesson 2 done
+* lesson 3 done
+* lesson 4 done
+* lesson 5 done
+* lesson 6 done
+* lesson 7 done
+* lesson 8 done 20230603
+
+### Resources
+https://github.com/fastai/fastbook
+https://course.fast.ai/
+
+### TODO
+
+
