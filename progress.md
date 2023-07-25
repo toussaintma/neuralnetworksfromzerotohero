@@ -8,4 +8,4 @@
 ** done 17/07/2023 Building makemore: Activations & Gradients
 ** done 17/07/2023 Building makemore: Backprop
 ** done 19/07/2023 Building makemore: Wavenet
-** ongoing Let's build GPT: from scratch, in code, spelled out
+** done 255/07/2023 Let's build GPT: from scratch, in code, spelled out
